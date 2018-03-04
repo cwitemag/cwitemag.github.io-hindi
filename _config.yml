@@ -1,0 +1,7 @@
+# Site settings
+title: हिन्दी
+description: छात्रों की कड़ी मेहनत
+keywords: Hindi, CWIT
+author: CWIT
+baseurl: "" # the subpath of your site, e.g. /blog/
+url: "" # the base hostname & protocol for your site
